@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EggTimer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="text_color">@color/black</item>
+        <item name="egg_image">@drawable/egg_light_2</item>
+        <item name="light_dark_image">@drawable/ic_baseline_dark_mode_24</item>
+    </style>
+</resources>
